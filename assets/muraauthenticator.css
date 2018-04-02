@@ -1,0 +1,37 @@
+/**
+ * [MuraAuthenticator](https://github.com/stevewithington/MuraAuthenticator)
+ * By: [Steve Withington](https://github.com/stevewithington)
+ */
+.muraauth-challenge-wrapper {
+    line-height: 1;
+    background: white;
+    max-width: 100%;
+}
+.muraauth-challenge-wrapper ol {
+    padding: 1em 0 1em 1em;
+}
+.muraauth-challenge-wrapper ol li {
+    padding: 0 0 0.5em 0.5em;
+    line-height: 1.4;
+}
+.muraauth-challenge-wrapper figure {
+    clear: both;
+    display: block;
+    border: none;
+}
+.muraauth-challenge-wrapper ol ul {
+    padding: 1em;
+}
+.muraauth-challenge-wrapper hr {
+    margin: 1em 0;
+    border-top: 1px solid #ddd;
+}
+.muraauth-challenge-wrapper h1 {
+    padding: 0 0 0.5em 0;
+}
+.muraauth-challenge-wrapper #muraauth-lost-wrapper {
+    text-align: center;
+}
+.muraauth-challenge-wrapper #muraauth-print-backup-codes {
+    margin-bottom: 1em;
+}
